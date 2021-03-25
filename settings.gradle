@@ -1,0 +1,4 @@
+include ':mysql-connector-java-5.1.47'
+include ':AMap3DMap_7.5.0_AMapSearch_7.4.0_20200723'
+include ':app'
+rootProject.name='My Application'

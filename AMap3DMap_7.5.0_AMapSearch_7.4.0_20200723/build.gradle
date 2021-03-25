@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('AMap3DMap_7.5.0_AMapSearch_7.4.0_20200723.jar'))
